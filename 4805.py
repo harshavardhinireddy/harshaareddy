@@ -1,4 +1,4 @@
 a=[2,4,8]
-b=['harsha','bhavya','krishna']
+b=['harsha','bhavya']
 c=a+b
-print(c)
+print(c);
